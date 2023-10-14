@@ -140,12 +140,11 @@ h5 {
   font-size: 1.5rem;
 }
 
-.project-link,
-.language-wrapper p,
-.tool-wrapper p {
-  text-transform: uppercase;
-  font-size: 1.124rem;
-  color: #EEE4F0;
+.project-link
+{
+text-transform: uppercase;
+font-size: 1.124rem;
+
 }
 
 .about-info h4,
@@ -321,6 +320,7 @@ header nav ul li {
 
 nav #contact-link {
   background-color: #EC91C4;
+  color: #351D77;
   padding: 10px 10px;
   border-radius: 30px;
 }
@@ -391,12 +391,15 @@ header h2 {
   color: #351D77;
 }
 
-.projec-link hover {
-  background-color: #F4BEDC;
-}
+
 
 #skills {
   background-color: #351D77;
+}
+
+.language-wrapper .skill,
+.tool-wrapper .tool {
+  color: #351D77;
 }
 
 #skills h4,
@@ -493,8 +496,8 @@ footer .social-icons li {
 }
 
 footer social-icons li i {
-  font-size: 50px;
-  color: #EEE4F0;
+  font-size: 100px;
+  color: red;
 }
 
 /* ==========================================================================
@@ -863,7 +866,7 @@ footer social-icons li i {
     font-size: 1.25rem;
   }
 
-  .projec-link,
+  .project-link,
   .language-wrapper p,
   .tool-wrapper p {
     font-size: 1rem;
@@ -966,6 +969,13 @@ footer social-icons li i {
     padding: 10px 10px;
     border-radius: 30px;
   }
+  
+  .project-link:hover {
+    background-color: #F4BEDC;
+    
+  }
+
+
 
   .home-title {
     max-width: 95%;
