@@ -140,10 +140,9 @@ h5 {
   font-size: 1.5rem;
 }
 
-.project-link
-{
-text-transform: uppercase;
-font-size: 1.124rem;
+.project-link {
+  text-transform: uppercase;
+  font-size: 1.124rem;
 
 }
 
@@ -495,9 +494,8 @@ footer .social-icons li {
   align-items: center;
 }
 
-footer social-icons li i {
-  font-size: 100px;
-  color: red;
+footer .social-icons li i {
+  font-size: 30px;
 }
 
 /* ==========================================================================
@@ -969,10 +967,10 @@ footer social-icons li i {
     padding: 10px 10px;
     border-radius: 30px;
   }
-  
+
   .project-link:hover {
     background-color: #F4BEDC;
-    
+
   }
 
 
