@@ -98,6 +98,10 @@ body {
 
 }
 
+.content-wrapper {
+  width: 90%;
+}
+
 ul,
 ol {
   list-style-type: none;
