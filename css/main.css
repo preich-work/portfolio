@@ -178,10 +178,6 @@ img {
   width: 100%;
 }
 
-figure {
-  margin: 0;
-}
-
 address {
   font-style: normal;
 }
@@ -442,7 +438,7 @@ header h2 {
 #about h4,
 #about p {
   color: #351D77;
-  margin-left: 10px;
+  /*margin-left: 10px;*/
   width: 90%;
 }
 
