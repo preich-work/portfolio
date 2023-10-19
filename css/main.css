@@ -430,7 +430,7 @@ header h2 {
 
 #profile-image {
   width: 70%;
-  margin: 0 40px 0 40px;
+  /*margin: 0 40px 0 40px;*/
 
 }
 
@@ -821,9 +821,9 @@ footer .social-icons li i {
 @media only screen and (min-width: 1200px) {
 
   /* Desktop styles */
-  .content-wrapper {
+  /*.content-wrapper {
     max-width: 1450px;
-  }
+  }*/
 
   h1 {
     font-size: 4rem;
