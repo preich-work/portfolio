@@ -729,7 +729,7 @@ footer .social-icons li i {
   header nav ul {
     display: flex;
     justify-content: space-between;
-    width: 80%;
+    width: 100%;
   }
 
 
@@ -951,7 +951,7 @@ footer .social-icons li i {
 
   header nav {
     justify-content: flex-end;
-    width: 45%;
+    width: 50%;
   }
 
   nav ul li a {
