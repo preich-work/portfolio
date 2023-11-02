@@ -777,7 +777,7 @@ footer .social-icons li i {
     padding: 15px 0;
   }
 
-  .about.content-wrapper {
+  .about .content-wrapper {
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
@@ -846,7 +846,7 @@ footer .social-icons li i {
   }
 
   #about p {
-    text-align: left;
+    text-align: center;
   }
 
   .about-info h3 {
@@ -924,7 +924,7 @@ footer .social-icons li i {
 
   .about-info h4,
   .about-info h3 {
-    text-align: left;
+    text-align: center;
 
   }
 
@@ -938,11 +938,12 @@ footer .social-icons li i {
 
   .about-text {
     margin: 0 0 30px 0;
+    text-align: center;
   }
 
   #profile-image {
     margin: 0 40px 40px 20px;
-    float: left;
+    
   }
 
   header .content-wrapper {
